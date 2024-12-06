@@ -31,4 +31,4 @@ websockets==10.3
 pymysql==1.0.2
 passlib == 1.7.4 
 python-jose == 3.3.0
-Putz == 2024.1
+Pytz == 2024.1
