@@ -32,3 +32,6 @@ pymysql==1.0.2
 passlib == 1.7.4 
 python-jose == 3.3.0
 Pytz == 2024.1
+Pandas == 2.2.2
+numpy == 1.26.4
+Joblib == 1.4.2
