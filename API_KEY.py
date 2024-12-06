@@ -1,2 +1,3 @@
 KEY = '756b4f49437368613536755955666f'
 URL = f'http://openapi.seoul.go.kr:8088/{KEY}/json/bikeList/1/1/'
+API_ATMOS = 'gWhGOmVsZZ%2Bcx8Oq2J%2F%2BkdgH4D5HA%2B8HC16IivUuuf%2FAQIwJIL7tO59%2F%2FHpLsriszXlrWWpBqFFy3VpQYy70gA%3D%3D'
