@@ -29,3 +29,5 @@ uvloop==0.16.0
 watchgod==0.8.2
 websockets==10.3
 pymysql==1.0.2
+passlib python-jose
+passlib[bcrypt]
